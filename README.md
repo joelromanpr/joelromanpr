@@ -6,7 +6,8 @@ Hi, I am [@joelromanpr](https://github.com/joelromanpr). 👋 I am a Software En
 ## Last 3 Projects
 * [GoodRx Android App ~10Million+ users](https://play.google.com/store/apps/details?id=com.goodrx)
 * [GoodRx Pharma Manufacturer Solutions](https://investors.goodrx.com/static-files/f0ec58a3-9f07-4d5c-8a80-286c55d64174)
-* [GoodRx Open Source - Helping Americans get the healthcare they need at a price they can afford.](https://github.com/goodrx)
+* [GoodRx Open Source - Helping Americans get the healthcare they need at a price they can afford.](https://github.com/goodrx) 
+ 
 ## Recent Patent Awarded
 * [Self-service merchandise request system - Patent](https://patents.justia.com/inventor/joel-roman-sosa-rivera)
 
