@@ -17,7 +17,7 @@
 
 I'm a **Sr. Engineering Manager** @**GoodRx** using **Kotlin** and lots of **Gemini/AI integrations**. I am also a **patent holder** in **Self-service Merchandise Systems ([US11188964B2](https://patents.google.com/patent/US11188964B2/en))**. All opinions are my own.
 
-For the last **14** years, I've been using **Kotlin/Java** (Native Android & high-scale systems), **C#** (enterprise software), **Python** (control & data), and **C++** (real-time performance) in various industries including **Healthcare**, **Defense**, **Enterprise Software**, and **E-commerce**. I previously held positions at **[Northrop Grumman](https://github.com/NorthropGrumman)** and others. But everything has changed recently (**I'm looking to shift into Mechanical Engineering, focused on Robotics, Defense Systems, and Space**).
+For the last **14** years, I've been using **Kotlin/Java** (Native Android & high-scale systems), **C#** (enterprise software), **Python** (control & data), and **C++** (real-time performance) in various industries including **Healthcare**, **Defense**, **Enterprise Software**, and **E-commerce**. I previously held positions at **[Northrop Grumman](https://github.com/NorthropGrumman)** and others. I'm currently into Mechanical Engineering, focused on Robotics, Defense Systems, and Space**).
 
 Early in my career, I **founded the first Puerto Rico Google Developers Group (GDG)** alongside my colleague **[@jmarti326](https://github.com/jmarti326)** (an amazing architect at Microsoft).
 
