@@ -24,6 +24,7 @@
 
 ## Current Projects 
 
+* ☢️ **[commits-nuke](https://github.com/joelromanpr/commits-nuke)** – Instantly collapse your entire Git history into a single, fresh initial commit.
 * ⌨️ **[commandline-ktx](https://github.com/joelromanpr/commandline-ktx)** – A Kotlin library for building standardized *nix-style CLI tools with zero boilerplate.  
 * 🗜️ **[Tiny Compressor KTX](https://github.com/joelromanpr/tiny-compressor-ktx)** – A modern, Coroutine-powered image compression library for Android.    
 * 📱 **[android-puertorico-mvvm](https://github.com/joelromanpr/android-puertorico-mvvm)** - Production-ready Android template with strict separation of concerns, Hilt DI, and Jetpack Compose. 
