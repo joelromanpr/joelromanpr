@@ -8,6 +8,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E9430F?style=flat-square&logo=ubuntu&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) 
+![Gemini](https://img.shields.io/badge/-Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white)  
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) 
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnubash&logoColor=white) 
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) 
