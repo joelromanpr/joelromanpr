@@ -24,6 +24,7 @@
 
 ## Current Projects 
 
+* 🔐 **[SignQuest (code-signing-game)](https://github.com/joelromanpr/code-signing-game)** – Mini Web-Game that teaches students on various code signing topics (used in academia)
 * ☢️ **[commits-nuke](https://github.com/joelromanpr/commits-nuke)** – Instantly collapse your entire Git history into a single, fresh initial commit.
 * ⌨️ **[commandline-ktx](https://github.com/joelromanpr/commandline-ktx)** – A Kotlin library for building standardized *nix-style CLI tools with zero boilerplate.  
 * 🗜️ **[Tiny Compressor KTX](https://github.com/joelromanpr/tiny-compressor-ktx)** – A modern, Coroutine-powered image compression library for Android.    
