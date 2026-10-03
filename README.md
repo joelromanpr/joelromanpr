@@ -6,16 +6,14 @@ I lead an exceptionally talented mobile engineering team at GoodRx. We take init
 
 My background spans 14+ years in native Android, developer tools, and product systems, including work at Northrop Grumman. Alongside GoodRx, I'm Founder / Member of Technical Staff on the three ventures below.
 
-## Start Here
+## Open Source / Projects
 
 - 🧾 **[FacturaOS](https://facturaos.com/)** — Bilingual business operations for Puerto Rico: estimates, invoices, customer records, and payments, with a separate [U.S. operating market](https://facturaos.com/markets/united-states).
 - 🏠 **[AlquilaOS](https://www.alquilaos.com/)** — Bilingual rental management for Puerto Rico landlords and tenants, from lease records to maintenance and optional online payments.
 - 🎮 **[Anacaona Studios](https://anacaonastudios.com/)** — Casual games with Caribbean roots for players across generations, with older adults especially in mind. *Canoa: Golden Tide* is on [iOS](https://apps.apple.com/us/app/canoa-golden-tide/id6810344411) and [Android](https://play.google.com/store/apps/details?id=com.anacaonastudios.canoa).
+- 📊 **[Jetpack Charts](https://github.com/joelromanpr/jetpack-charts)** — Interactive Jetpack Compose charts for markets, portfolios, and commerce, with financial indicators and light/dark support.
 - ⌨️ **[commandline-ktx](https://github.com/joelromanpr/commandline-ktx)** — Kotlin tools for building command-line apps without the usual boilerplate.
 - 🧰 **[android-essentials](https://github.com/joelromanpr/android-essentials)** — Small Android libraries with focused, documented APIs.
-
-## More Open Source
-
 - 🗜️ **[tiny-compressor-ktx](https://github.com/joelromanpr/tiny-compressor-ktx)** — Kotlin-first Android image compression with coroutine and Flow support.
 - 🔐 **[code-signing-game](https://github.com/joelromanpr/code-signing-game)** — An interactive way to learn code-signing concepts.
 - 📱 **[Android Puerto Rico MVVM](https://github.com/joelromanpr/android-puertorico-mvvm)** and **[Flutter Puerto Rico MVVM](https://github.com/joelromanpr/flutter-puertorico-mvvm)** — Educational mobile architecture examples.
